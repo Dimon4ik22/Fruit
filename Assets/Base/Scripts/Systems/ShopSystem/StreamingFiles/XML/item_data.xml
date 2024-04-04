@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ItemDatabase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ShopItems>
+    <ItemEntry>
+      <itemName>A1</itemName>
+      <price>55</price>
+      <hasBought>true</hasBought>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Elma</itemName>
+      <price>11</price>
+      <hasBought>false</hasBought>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Armut</itemName>
+      <price>22</price>
+      <hasBought>true</hasBought>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Çilek</itemName>
+      <price>5</price>
+      <hasBought>false</hasBought>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Kiraz</itemName>
+      <price>33</price>
+      <hasBought>false</hasBought>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Mert</itemName>
+      <price>111</price>
+      <hasBought>true</hasBought>
+    </ItemEntry>
+  </ShopItems>
+</ItemDatabase>
